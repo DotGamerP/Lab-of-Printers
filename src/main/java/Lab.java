@@ -221,7 +221,7 @@ public class Lab {
                 // We'll get the current job printing time of the selected Printer
                 int iCurrJobTime = this.printers[i].currentJob().getPrintingDuration();
                 
-                if (iCurrJobTime < minCurrJobTime || min == -1) {
+                if (iCurrJobTime < minCurrJobTime) {
                     
                     // If it's considered this "i" printer faster to finish the current Job, then we'll update our result variable
                     min = i;
