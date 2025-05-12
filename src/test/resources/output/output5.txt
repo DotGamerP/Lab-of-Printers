@@ -1,0 +1,19 @@
+[TIME: 0] Printer 0 online, ready to take jobs.
+[TIME: 0] Printer 1 online, ready to take jobs.
+[TIME: 0] Printer 2 online, ready to take jobs.
+[TIME: 0] Job job1 (NORMAL) scheduled to printer 0, printing will take 30.
+[TIME: 0] Job job2 (NORMAL) scheduled to printer 1, printing will take 20.
+[TIME: 0] Job job3 (NORMAL) scheduled to printer 2, printing will take 90.
+[TIME: 0] Job job4 (HIGH) scheduled to printer 1, printing will take 5.
+[TIME: 0] Job job5 (HIGH) scheduled to printer 0, printing will take 5.
+[TIME: 0] Job job6 (HIGH) scheduled to printer 2, printing will take 5.
+[TIME: 0] Job job7 (HIGH) scheduled to printer 1, printing will take 5.
+All print jobs have been assigned to a printer!
+[TIME: 5] Job job5 has finished printing. Total wait time: 5.
+[TIME: 5] Job job4 has finished printing. Total wait time: 5.
+[TIME: 5] Job job6 has finished printing. Total wait time: 5.
+[TIME: 10] Job job7 has finished printing. Total wait time: 10.
+[TIME: 30] Job job2 has finished printing. Total wait time: 30.
+[TIME: 35] Job job1 has finished printing. Total wait time: 35.
+[TIME: 95] Job job3 has finished printing. Total wait time: 95.
+All printing jobs have been processed!

@@ -1,0 +1,1 @@
+<time of event> PRINT <model_name> <model_print_time> <number_copies> <priority>

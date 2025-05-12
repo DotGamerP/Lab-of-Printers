@@ -1,0 +1,7 @@
+[TIME: 0] Printer 0 online, ready to take jobs.
+[TIME: 0] Job job1 (NORMAL) scheduled to printer 0, printing will take 10.
+[TIME: 0] Job job2 (HIGH) scheduled to printer 0, printing will take 10.
+All print jobs have been assigned to a printer!
+[TIME: 10] Job job2 has finished printing. Total wait time: 10.
+[TIME: 20] Job job1 has finished printing. Total wait time: 20.
+All printing jobs have been processed!
